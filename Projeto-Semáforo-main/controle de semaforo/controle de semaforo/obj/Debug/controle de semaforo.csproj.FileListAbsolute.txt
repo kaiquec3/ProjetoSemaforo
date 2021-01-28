@@ -1,0 +1,20 @@
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\bin\Debug\controle de semaforo.exe.config
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\bin\Debug\controle de semaforo.exe
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\bin\Debug\controle de semaforo.pdb
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.csprojAssemblyReference.cache
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\obj\Debug\controle_de_semaforo.Form1.resources
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\obj\Debug\controle_de_semaforo.Properties.Resources.resources
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.csproj.GenerateResource.cache
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.csproj.CoreCompileInputs.cache
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.exe
+C:\Users\yohan\source\repos\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.pdb
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.csprojAssemblyReference.cache
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\obj\Debug\controle_de_semaforo.Form1.resources
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\obj\Debug\controle_de_semaforo.Properties.Resources.resources
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.csproj.GenerateResource.cache
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.exe
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\obj\Debug\controle de semaforo.pdb
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\bin\Debug\controle de semaforo.exe.config
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\bin\Debug\controle de semaforo.exe
+C:\Users\yohan\Desktop\Tarefa do semaforo\controle de semaforo\controle de semaforo\bin\Debug\controle de semaforo.pdb
